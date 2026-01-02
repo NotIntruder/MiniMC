@@ -59,8 +59,11 @@ The source code remains closed-source to protect the competitive advantages and 
 **InventorySync:**
 ![MiniSync](https://cdn.discordapp.com/attachments/1369365066629255257/1456684893475045396/ev5wf0a.png?ex=69594306&is=6957f186&hm=ce501ba0a70526c230a92bf8fff05b50930baa66db045346f443d05b2971a023&)
 
-**Dungeon Boss Spawns:**
-![Warden](https://media.discordapp.net/attachments/1369365066629255257/1456686818450870507/QmMYpCp.gif?ex=695944d1&is=6957f351&hm=bc95cf33f9d710346722f7b70da5d1ab7d14e62a6b3575f022856e63e2d6c718&=&width=1286&height=676)
-
 **Warping Logs:**
 ![Warden](https://media.discordapp.net/attachments/1369365066629255257/1456687692304748608/QBA9b5j.png?ex=695945a1&is=6957f421&hm=4753db96c6da3768c5b7233ec59744c276863ca647bd81e04357a9ddb5fcddda&=&format=webp&quality=lossless&width=369&height=38)
+
+**To Experience Dungeons its Best if you play it yourself however here are some screenshots!:**
+![Warden](https://media.discordapp.net/attachments/1369365066629255257/1456689607692390441/wa0Ter8.png?ex=6959476a&is=6957f5ea&hm=fb024642a0da620cf3ff64d8e9a89f196d2e76c5f9b5ad302a64fd7588fe017d&=&format=webp&quality=lossless&width=1286&height=676)
+![Passive](https://media.discordapp.net/attachments/1369365066629255257/1456689658682671332/8eV4E20.png?ex=69594776&is=6957f5f6&hm=03e15937c98a120430fbe8335b9fb810df819a4d9f2a5373774b50070ec029a3&=&format=webp&quality=lossless&width=1286&height=676)
+![Illusioner](https://media.discordapp.net/attachments/1369365066629255257/1456690040066281548/gvLNbp1.png?ex=695947d1&is=6957f651&hm=4e59ae3b6b099fa8fff44a1aad199c45866d2bf410976df7f70c021024f48174&=&format=webp&quality=lossless&width=1286&height=676)
+![Warden](https://media.discordapp.net/attachments/1369365066629255257/1456690310448152718/FwnvUaX.png?ex=69594812&is=6957f692&hm=3f6fe6fea7abaa8f129c24e0aac778ac10c1ad09ea4c1598ec77d81d1a07f8fd&=&format=webp&quality=lossless&width=1286&height=676)
