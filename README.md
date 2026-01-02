@@ -60,7 +60,7 @@ The source code remains closed-source to protect the competitive advantages and 
 ![MiniSync](https://cdn.discordapp.com/attachments/1369365066629255257/1456684893475045396/ev5wf0a.png?ex=69594306&is=6957f186&hm=ce501ba0a70526c230a92bf8fff05b50930baa66db045346f443d05b2971a023&)
 
 **Warping Logs:**
-![Warden](https://media.discordapp.net/attachments/1369365066629255257/1456687692304748608/QBA9b5j.png?ex=695945a1&is=6957f421&hm=4753db96c6da3768c5b7233ec59744c276863ca647bd81e04357a9ddb5fcddda&=&format=webp&quality=lossless&width=369&height=38)
+![Warden](https://media.discordapp.net/attachments/1369365066629255257/1456687692304748608/QBA9b5j.png?ex=695945a1&is=6957f421&hm=4753db96c6da3768c5b7233ec59744c276863ca647bd81e04357a9ddb5fcddda&=&format=webp)
 
 **To Experience Dungeons its Best if you play it yourself however here are some screenshots!:**
 ![Warden](https://media.discordapp.net/attachments/1369365066629255257/1456689607692390441/wa0Ter8.png?ex=6959476a&is=6957f5ea&hm=fb024642a0da620cf3ff64d8e9a89f196d2e76c5f9b5ad302a64fd7588fe017d&=&format=webp&quality=lossless&width=1286&height=676)
